@@ -43,13 +43,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Clone adityatelange/hugo-PaperMod PUBLIC repository
-        uses: GuillaumeFalourd/clone-github-repo-action@v2.3
-        with:
-          depth: 1
-          branch: "main"
-          owner: "adityatelange"
-          repository: "hugo-PaperMod"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
