@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="绘图.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="10.479167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       cx="23.253977"
+       cy="23.347914"
+       fill="#0066b0"
+       id="circle1"
+       inkscape:label="circle1"
+       r="19.324057"
+       style="stroke-width:0.805168" />
+    <circle
+       cx="23.253977"
+       cy="23.347914"
+       r="12.755466"
+       fill="#ffffff"
+       id="circle2"
+       style="stroke-width:0.797216" />
+    <path
+       d="M 14.685388,6.1988068 2.0492054,1.5347912 14.685388,13.972168 Z"
+       fill="#1a1a2e"
+       id="path2"
+       style="stroke-width:0.52235" />
+    <path
+       d="M 34.367296,7.5149111 47.822564,1.98012 34.367296,16.739564 Z"
+       fill="#1a1a2e"
+       id="path3"
+       style="stroke-width:0.50851" />
+    <circle
+       cx="17.540258"
+       cy="22.775349"
+       r="3.0457256"
+       fill="#1a1a2e"
+       id="circle3"
+       style="stroke-width:0.761432" />
+    <circle
+       cx="29.349403"
+       cy="22.870777"
+       r="2.8548708"
+       fill="#1a1a2e"
+       id="circle4"
+       style="stroke-width:0.713718" />
+    <path
+       d="m 19.25,26.25845 h 8 l -4,6 z"
+       fill="#1a1a2e"
+       id="path4" />
+    <g
+       stroke="#1a1a2e"
+       stroke-width="2.5"
+       stroke-linecap="round"
+       fill="none"
+       id="g7"
+       transform="matrix(0.81582909,0,0,0.80840435,-28.342784,-26.708874)">
+      <line
+         x1="50"
+         y1="76"
+         x2="36"
+         y2="74"
+         id="line4" />
+      <line
+         x1="50"
+         y1="80"
+         x2="36"
+         y2="84"
+         id="line5" />
+      <line
+         x1="78"
+         y1="76"
+         x2="92"
+         y2="74"
+         id="line6" />
+      <line
+         x1="78"
+         y1="80"
+         x2="92"
+         y2="84"
+         id="line7" />
+    </g>
+  </g>
+</svg>
